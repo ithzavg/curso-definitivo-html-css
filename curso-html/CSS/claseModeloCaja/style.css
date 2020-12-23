@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box; /*le estamos diciendo que sume 
+    el padding con el width del elemento calculo automatico del tamaño del elemento
+    para que no se salga*/
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    width: 100%;
+    height: 500px;
+    border: 10px solid gray;
+    padding: 20px 35px; /*de arriba abajo 20px izq a der 35px*/
+}

@@ -1,0 +1,15 @@
+body{
+    font-family: 'Questrial', sans-serif;
+    background-color: #F08573;
+    color: #ffffff;
+}
+
+.product-img{
+    width: 30%;
+    border-radius: 7%;
+}
+
+.title-list{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}

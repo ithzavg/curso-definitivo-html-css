@@ -1,0 +1,21 @@
+/*en color rojo de todas las etiquetas p que sean cercanas a un h2
+Adjacent sibling
+h2 + p {
+    color: red;
+}
+*/
+/*De forma general existen paraffos con etiquetas h2, siempre y cuando existan en la misma linea
+h2 ~ p{
+    color:red;
+}
+*/
+/*child el padre div que sea mayor padre de un p
+o etiqueta parrafo que sea hija directa de un div 
+div > p{
+    color: red
+}
+*/
+/*Todas las etiquetas p que esten dentro de un div*/
+div p{
+    color:red;
+}
